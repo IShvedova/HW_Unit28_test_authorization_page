@@ -7,13 +7,13 @@ from selenium.webdriver.support.wait import WebDriverWait
 import time
 import pickle
 
-phone = '+79103834857'
-login = "lk_2938616"
-email = 'shvedova-i@yandex.ru'
-ls = '352020131844'
-password = 'Vitalina17072004'
+phone = '+79207181624'
+login = "lk_1234566"
+email = 'kuka@yandex.ru'
+ls = '352020111111'
+password = 'Gusyata12345'
 wrong_password = 'wrong_pass'
-wrong_phone = '+79103834858'
+wrong_phone = '+79112345678'
 
 
 """При вводе номера телефона/почты/логина/лицевого счета - таб выбора телефонной аутентификации меняется автоматически. """
